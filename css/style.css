@@ -537,6 +537,7 @@ p {
 .main_address {
     background-color: #2f303a;
     padding: 60px 0;
+    height: 252px;
 }
 
 .container.order {
